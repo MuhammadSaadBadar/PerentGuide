@@ -1,0 +1,15 @@
+node_modules
+dist
+.env
+*.log
+.DS_Store
+*.swp
+*.swo
+*.iml
+.idea
+.vscode
+*.tsbuildinfo
+coverage
+.nyc_output
+*.tgz
+*.tar.gz
